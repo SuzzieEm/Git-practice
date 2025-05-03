@@ -1,3 +1,8 @@
 I am practicing using Git and GitHub for Version Control.
 I'm going to try to also practice the branching nad merging thingy.
-All the best to me!.
+All the best to me!
+Yaaay!!
+We did it. We successfully created a file, staged it and committed it locally all by ourselves.
+Awesome!!!
+Now let's see if we can upload it to GitHub account and then the rest will follow.
+
