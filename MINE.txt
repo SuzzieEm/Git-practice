@@ -1,0 +1,3 @@
+I am practicing using Git and GitHub for Version Control.
+I'm going to try to also practice the branching nad merging thingy.
+All the best to me!.
